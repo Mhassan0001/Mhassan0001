@@ -7,11 +7,11 @@ Currently, I'm also learning backend technologies to become a full-stack develop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhassan0001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com?user=Mhassan0001&theme=tokyonight)](https://git.io/streak-stats)
-                    [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhassan0001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mhassan0001&theme=react&hide_border=true&border_radius=8)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhassan0001&layout=compact&theme=react&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)  
+[![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhassan0001&show_icons=true&theme=react&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
