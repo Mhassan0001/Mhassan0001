@@ -9,8 +9,10 @@ Currently, I'm also learning backend technologies to become a full-stack develop
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhassan0001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Mhassan0001&theme=tokyonight)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhassan0001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhassan0001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mhassan0001&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 
@@ -30,10 +32,9 @@ I work with modern web technologies to build fast, responsive, and user-friendly
 
 ## 📫 How to Reach Me
 
-- Email: hassanfareed5050@gmail.com  
+- LinkedIn: [Muhammad Hassan](https://www.linkedin.com/in/muhammad-hassan-36912a22b)  
 - GitHub: [Mhassan0001](https://github.com/Mhassan0001)  
 
----
 
 Thanks for visiting my profile! 😊  
 Feel free to connect and collaborate.
