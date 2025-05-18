@@ -4,7 +4,6 @@
 🌱 Currently learning the MERN stack  
 🔧 Passionate about building responsive and user-friendly web apps  
 📍 Based in Lahore, Pakistan  
-📫 Reach me at: hassanfareed5050@gmail.com  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hassanfareed5050)
 
 
