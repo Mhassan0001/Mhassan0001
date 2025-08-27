@@ -1,23 +1,32 @@
-# Hi there 👋 I'm Muhammad Hassan
+# Hi there 👋 I'm Hassan  
 
-💻 **React Developer | JavaScript Enthusiast**  
-🌱 **Currently learning the MERN Stack**  
-🔧 **Passionate about building responsive & user-friendly web apps**  
-📍 **Based in Lahore, Pakistan**  
+🚀 Passionate about building modern web applications with the MERN stack and exploring scalable solutions.  
+💡 Always learning and growing as a developer.  
 
 ---
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+## 🛠️ Skills  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>  
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="35"/>  
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>  
+</p>  
 
 ---
 
-### 🛠 Skills  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=w
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhassan0001&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>  
+
+---
+
+⭐️ From [Hassan](https://github.com/Mhassan0001)  
