@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I’m Muhammad Hassan 👋</h1>
 
 <p align="center">
@@ -20,7 +19,11 @@
 ### 🔗 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="border-radius:50%;" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mhassan0001">
+    <img src="https://skillicons.dev/icons?i=github" width="50" style="border-radius:50%;" />
   </a>
 </p>
 
