@@ -4,7 +4,7 @@
 💻 React Developer | JavaScript Enthusiast<br>
 🌱 Currently learning the MERN Stack<br>
 🔧 Passionate about building responsive & user-friendly web apps<br>
-📍 <b>Based in Lahore, Pakistan</b>
+📍  Based in Lahore, Pakistan
 </p>
 
 ---
