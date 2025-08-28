@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I’m Muhammad Hassan 👋</h1>
 
 <p align="center">
-💻 <b>React Developer | JavaScript Enthusiast</b><br>
-🌱 <b>Currently learning the MERN Stack</b><br>
-🔧 <b>Passionate about building responsive & user-friendly web apps</b><br>
+💻 React Developer | JavaScript Enthusiast<br>
+🌱 Currently learning the MERN Stack<br>
+🔧 Passionate about building responsive & user-friendly web apps<br>
 📍 <b>Based in Lahore, Pakistan</b>
 </p>
 
