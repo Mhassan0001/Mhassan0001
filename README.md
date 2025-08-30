@@ -22,5 +22,3 @@ I’m Computer Science graduate passionate about building scalable web applicati
 
 
 
----
-
