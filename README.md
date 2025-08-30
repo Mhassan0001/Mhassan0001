@@ -1,21 +1,11 @@
-# 💫 About Me:
 👨‍💻 About Me<br><br>🎓 Computer Science Graduate<br><br>💻 Passionate about JavaScript, React, Node.js, and MERN Stack Development<br><br>🚀 Currently focusing on Backend Development & Problem Solving (DSA)<br><br>📚 Learning Data Structures & Algorithms to improve problem-solving skills<br><br>🌍 Aspiring to work in Big Tech and contribute to impactful projects<br><br>✨ Love building projects that solve real-world problems<br><br>📫 How to reach me: <br>LinkedIn |  Email
 
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-hassan-36912a22b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="border-radius:50%;" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mhassan0001">
-    <img src="https://skillicons.dev/icons?i=github" width="50" style="border-radius:50%;" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hassan-36912a22b) 
+
 # 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mhassan0001&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mhassan0001&theme=great-gatsby&hide_border=true)<br/>
