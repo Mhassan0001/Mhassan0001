@@ -9,8 +9,14 @@ I’m Computer Science graduate passionate about building scalable web applicati
 ---
 
 ### 📫 Connect with Me  
-- [LinkedIn](your-linkedin-url)  
-- [Email](mailto:your-email)  
+
+<a href="https://www.linkedin.com/in/muhammad-hassan-36912a22b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mhassan0001" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
