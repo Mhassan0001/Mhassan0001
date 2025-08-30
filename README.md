@@ -1,4 +1,4 @@
-# Hi there, I'm Hassan 👋
+# Hi there, I'm Muhammad Hassan 👋
 
 I’m Hassan, a Computer Science graduate passionate about building scalable web applications.  
 - 💻 Skilled in **JavaScript | React | Node.js | MongoDB**  
