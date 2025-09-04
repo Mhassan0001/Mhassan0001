@@ -4,7 +4,7 @@ I’m Computer Science graduate passionate about building scalable web applicati
 - 💻 Skilled in **JavaScript | React | Node.js | MongoDB**  
 - 🚀 Currently focusing on **MERN Stack & Backend Development**  
 - 🌍 Aspiring to grow as a developer and contribute to impactful projects  
-- ✨ Love turning ideas into real-world solutions  
+- ✨ Love turning ideas into real-world solutions
 
 ---
 
