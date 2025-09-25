@@ -1,4 +1,6 @@
 # Hi there, I'm Muhammad Hassan 👋
+# Hi there, I'm Muhammad Hassan ![waving hand](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+
 
 I’m Computer Science graduate passionate about building scalable web applications.  
 - 💻 Skilled in **JavaScript | React | Node.js | MongoDB**  
