@@ -1,5 +1,4 @@
-# Hi there, I'm Muhammad Hassan 👋
-# Hi there, I'm Muhammad Hassan ![waving hand](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+# Hi there, I'm <span style="color:gold">Muhammad</span> Hassan 👋
 
 
 I’m Computer Science graduate passionate about building scalable web applications.  
