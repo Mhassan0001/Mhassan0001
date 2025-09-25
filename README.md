@@ -1,5 +1,4 @@
-# Hi there, I'm <span style="color:gold">Muhammad</span> Hassan 👋
-
+# Hi there, I'm Muhammad Hassan 👋
 
 I’m Computer Science graduate passionate about building scalable web applications.  
 - 💻 Skilled in **JavaScript | React | Node.js | MongoDB**  
