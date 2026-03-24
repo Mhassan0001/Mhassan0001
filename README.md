@@ -18,7 +18,7 @@ I’m Computer Science graduate passionate about building scalable web applicati
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
 </a>
 
-
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/main.yml?style=flat-square)
 
 
 
