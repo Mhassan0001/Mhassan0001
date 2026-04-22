@@ -8,16 +8,23 @@ I’m Computer Science graduate passionate about building scalable web applicati
 
 ---
 
+
 ### 📫 Connect with Me  
 
-<a href="https://www.linkedin.com/in/muhammad-hassan-36912a22b" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://github.com/Mhassan0001" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
-</a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/muhammad-hassan-36912a22b" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mhassan0001" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
