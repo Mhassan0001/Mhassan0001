@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Muhammad+Hassan!+%F0%9F%91%8B;MERN+Stack+Developer+%7C+React+%26+Node.js;Learning+Backend+%2C+APIs+%26+DSA+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Muhammad+Hassan!+%F0%9F%91%8B;MERN+Stack+Developer+%7C+React+%26+Node.js;Learning+Backend+%2C+APIs+%26+DSA+%F0%9F%9A%80" />
 
 ---
 
