@@ -41,35 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📝 Notes App (Full Stack)
-> CRUD app with authentication and user-specific data
-
-- Built with **Node.js + Express + MongoDB + React**
-- JWT-based authentication
-- RESTful APIs with protected routes
-- Full CRUD operations for notes
-
----
-
-### ✅ Todo App (React + Zustand)
-> Simple task manager with edit/delete functionality
-
-- React state management using Zustand
-- Add / Edit / Delete tasks
-- Clean UI with responsive design
-
----
-
-### 🔐 Auth System (Practice Project)
-> Basic authentication system
-
-- Login / Register functionality
-- Password hashing + JWT tokens
-- Protected API routes
-
----
 
 ## 📈 Currently Learning
 
@@ -77,16 +48,6 @@
 - Advanced Node.js backend concepts
 - Authentication & Authorization best practices
 - System design basics (beginner level)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-</div>
 
 ---
 
