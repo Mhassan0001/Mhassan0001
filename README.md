@@ -19,7 +19,6 @@
 - 🏗️ Building small-to-medium full-stack projects (CRUD apps, auth systems)
 - 📚 Currently improving **Data Structures & Problem Solving (DSA)**
 - 🌱 Learning backend development more deeply (Node.js, Express, MongoDB)
-- 🎯 Goal: Work in a top tech company as a backend/full-stack developer
 - 📍 Pakistan
 
 ---
